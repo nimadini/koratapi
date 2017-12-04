@@ -1,0 +1,13 @@
+Requirements:
+* Apache maven: https://maven.apache.org/
+* Oracle JDK 8: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+Next you can run mvn commands, e.g., mvn test
+
+A slightly customized version of the Korat jar is already included under src/main/resources.
+In case it is not compatible with your installed JVM, please build Korat using ant:
+
+* cd src/main/resources/korat
+* ant createJar
+
+You can download ant from https://ant.apache.org/bindownload.cgi
