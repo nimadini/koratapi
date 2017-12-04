@@ -11,3 +11,5 @@ In case it is not compatible with your installed JVM, please build Korat using a
 * ant createJar
 
 You can download ant from https://ant.apache.org/bindownload.cgi
+
+Please see two examples of using Korat-API in test directory: src/test/java/TestTranslation.java
