@@ -1,4 +1,8 @@
-Requirements:
+This release only provides a subset of the core KoratAPI functionality.
+
+Requirements
+=======
+
 * Apache maven: https://maven.apache.org/
 * Oracle JDK 8: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
@@ -13,3 +17,18 @@ In case it is not compatible with your installed JVM, please build Korat using a
 You can download ant from https://ant.apache.org/bindownload.cgi
 
 Please see two examples of using Korat-API in test directory: src/test/java/TestTranslation.java
+
+LICENSE
+=======
+
+The source code of Korat-API is distributed under the GNU General 
+Public License version 2 (see LICENSE.txt).  Korat-API builds on top
+of Korat, which uses several third-party packages whose code may be 
+distributed under different licenses (see the appropriate LICENSE 
+files in the src/main/resources/korat/lib directory for details).
+
+CONTACT
+=======
+
+Nima Dini <nima.dini@utexas.edu>
+Sarfraz Khurshid <khurshid@utexas.edu>
