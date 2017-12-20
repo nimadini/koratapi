@@ -24,8 +24,9 @@ LICENSE
 The source code of Korat-API is distributed under the GNU General 
 Public License version 2 (see LICENSE.txt).  Korat-API builds on top
 of Korat, which uses several third-party packages whose code may be 
-distributed under different licenses (see the appropriate LICENSE 
-files in the src/main/resources/korat/lib directory for details).
+distributed under different licenses (see the appropriate LICENSE
+files in src/main/resources/korat/ and src/main/resources/korat/lib
+directories for details).
 
 CONTACT
 =======
