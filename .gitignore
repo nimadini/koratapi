@@ -4,3 +4,6 @@ target/
 # Korat build dir.
 src/main/resources/korat/build/
 
+# OS X meta files.
+.DS_Store
+
