@@ -1,4 +1,4 @@
-This release only provides a subset of the core KoratAPI functionality.
+This release provides a subset of the core KoratAPI functionality, as well as the heap-PC subjects used in the paper.
 
 Requirements
 =======
